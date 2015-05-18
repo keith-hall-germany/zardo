@@ -1,3 +1,3 @@
 # zardo
 
-Test app for Capistrano.
+Simple test app for Capistrano.
